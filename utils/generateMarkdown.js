@@ -38,11 +38,11 @@ This project is covered under the ${data.license} license.
 ## Tests
 You can use these commands to run tests: ${data.tests}
 
-##Collaborators
+## Collaborators
 
 ${data.credits}
 
-##How to Contribute
+## How to Contribute
 
 ${data.contribute}
 

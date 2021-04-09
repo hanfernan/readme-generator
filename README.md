@@ -1,14 +1,26 @@
 ![](https://img.shields.io/apm/l/vim-mode)
-# title
+# README Generator
 
 ## Description
-no
+I created this project to generate a well-formatted read me based on user responses to questions I have prompted
 
 ## Installation
-a good one
+N/A
 
 ## Usage 
-nothing
+It's pretty awesome tbh
 
 ## License 
 This project is covered under the MIT license.
+
+## Tests
+You can use these commands to run tests: N/A
+
+##Collaborators
+
+Me, my tutor, god
+
+##How to Contribute
+
+Don't mess it up!
+
