@@ -61,8 +61,6 @@ const questions = () => {
     ]);
 }
 
-
-// TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     //always have to include err parameter with writeFile
     fs.writeFile(fileName, data, err => {

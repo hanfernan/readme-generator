@@ -1,26 +1,32 @@
-![](https://img.shields.io/apm/l/vim-mode)
-# README Generator
+![](https://img.shields.io/badge/license-GNU%20GPLv3-brightgreen)
+# ReadMe Generator
 
 ## Description
-I created this project to generate a well-formatted read me based on user responses to questions I have prompted
+I wrote the script for this project to produce a well-formatted ReadMe
 
 ## Installation
 N/A
 
 ## Usage 
-It's pretty awesome tbh
+It's awesome!
 
 ## License 
-This project is covered under the MIT license.
+This project is covered under the GNU GPLV3 license.
 
 ## Tests
 You can use these commands to run tests: N/A
 
-##Collaborators
+## Collaborators
 
-Me, my tutor, god
+N/A
 
-##How to Contribute
+## How to Contribute
 
-Don't mess it up!
+Please leave helpful comments! Thanks!
+
+![Walk through](readme_generator.gif)
+
+
+
+
 
